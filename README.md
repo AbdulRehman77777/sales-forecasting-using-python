@@ -1,7 +1,5 @@
 # sales-forecasting-using-python
 Time series sales forecasting using Python and Machine Learning
-# Sales Forecasting Using Python
-
 ## Project Objective
 Develop a machine learning model to forecast future sales based on historical retail data.
 
